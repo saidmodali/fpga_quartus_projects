@@ -1,0 +1,22 @@
+{C:/Users/said_/Desktop/verilog udemy/full_adder/top_module.v} {1 {vlog -work work -stats=none {C:/Users/said_/Desktop/verilog udemy/full_adder/top_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}} {C:/Users/said_/Desktop/verilog udemy/full_adder/full_adder.v} {1 {vlog -work work -stats=none {C:/Users/said_/Desktop/verilog udemy/full_adder/full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {C:/Users/said_/Desktop/verilog udemy/full_adder/DUT_tb.v} {1 {vlog -work work -stats=none {C:/Users/said_/Desktop/verilog udemy/full_adder/DUT_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DUT_tb
+
+Top level modules:
+	DUT_tb
+
+} {} {}}

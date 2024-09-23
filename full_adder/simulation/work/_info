@@ -1,0 +1,74 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vDUT_tb
+Z0 !s110 1727114825
+!i10b 1
+!s100 >bAV3ze1n@o7e:@U`mjBC0
+IU47Rk`m5lgMHLfAHHlkGh3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/said_/Desktop/verilog udemy/full_adder/simulation
+w1727114654
+8C:/Users/said_/Desktop/verilog udemy/full_adder/DUT_tb.v
+FC:/Users/said_/Desktop/verilog udemy/full_adder/DUT_tb.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1727114825.000000
+!s107 C:/Users/said_/Desktop/verilog udemy/full_adder/DUT_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/said_/Desktop/verilog udemy/full_adder/DUT_tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@d@u@t_tb
+vfull_adder
+R0
+!i10b 1
+!s100 2k7Uc@o4D>=HWM67103HZ2
+Ie@41N9AOmYV9;;j_XI]NX0
+R1
+R2
+w1727111836
+8C:/Users/said_/Desktop/verilog udemy/full_adder/full_adder.v
+FC:/Users/said_/Desktop/verilog udemy/full_adder/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/said_/Desktop/verilog udemy/full_adder/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/said_/Desktop/verilog udemy/full_adder/full_adder.v|
+!i113 1
+R5
+R6
+vtop_module
+R0
+!i10b 1
+!s100 KoHW9>[RkK7<VfUSYD]h92
+I0kQkdc@<[jPK2h0`ZWiD[1
+R1
+R2
+w1727112470
+8C:/Users/said_/Desktop/verilog udemy/full_adder/top_module.v
+FC:/Users/said_/Desktop/verilog udemy/full_adder/top_module.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/said_/Desktop/verilog udemy/full_adder/top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/said_/Desktop/verilog udemy/full_adder/top_module.v|
+!i113 1
+R5
+R6

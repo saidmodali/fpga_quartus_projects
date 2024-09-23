@@ -1,0 +1,13 @@
+|operators
+A => m6.IN0
+A => m0.IN0
+A => m2.IN0
+B => m2.IN1
+B => m6.IN1
+B => m0.IN1
+C => m0.IN1
+C => m2.IN1
+C => m6.IN1
+F <= F.DB_MAX_OUTPUT_PORT_TYPE
+
+
